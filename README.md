@@ -21,3 +21,9 @@ Backend: Node.js, Express.js
 Database: MySQL
 Version Control: Git
 I’m proud to contribute my skills to such an important cause and look forward to continuing my learning and growth in the field of web development.
+Here is the result of my website:
+![Shakti Website](https://ibb.co/mBkmR8t)
+![Shakti Website](https://ibb.co/tH2rrgv)
+![Shakti Website](https://ibb.co/KXH2ykb)
+![Shakti Website](https://ibb.co/J3Zp92m)
+
