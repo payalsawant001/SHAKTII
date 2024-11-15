@@ -22,8 +22,8 @@ Database: MySQL
 Version Control: Git
 I’m proud to contribute my skills to such an important cause and look forward to continuing my learning and growth in the field of web development.
 Here is the result of my website:
-![Shakti Website](https://ibb.co/mBkmR8t)
-![Shakti Website](https://ibb.co/tH2rrgv)
-![Shakti Website](https://ibb.co/KXH2ykb)
-![Shakti Website](https://ibb.co/J3Zp92m)
+![Shakti Website](https://i.ibb.co/pPcg1yZ/Screenshot-2024-11-15-140042.png)
+![Shakti Website](https://i.ibb.co/JcpJJVG/Screenshot-2024-11-15-140055.png)
+![Shakti Website](https://i.ibb.co/W61kKwG/Screenshot-2024-11-15-140106.png)
+![Shakti Website](https://i.ibb.co/WVCzLFG/Screenshot-2024-11-15-140204.png)
 
