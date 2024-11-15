@@ -1,0 +1,251 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+/* Header */
+/* Main header styling */
+.main-header {
+    background-image: url('mehh.jpeg'); /* Empowerment Image */
+    background-size: cover;
+    background-position: center;
+    height: 90vh; /* Full-screen height */
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: 'Roboto', sans-serif; /* Clean modern font */
+    text-align: center;
+    overflow: hidden;
+}
+
+/* Overlay with gradient effect */
+.overlay {
+    background: rgba(0, 0, 0, 0.6); /* Dark overlay with slight transparency */
+    padding: 40px;
+    border-radius: 25px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6); /* Subtle shadow */
+}
+
+/* Shakti heading styling */
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 72px; /* Large text */
+    font-weight: 700;
+    color: #ff5c8d; /* Bold pink color */
+    text-transform: uppercase; /* Make text uppercase */
+    letter-spacing: 5px; /* Increase letter spacing */
+    margin: 0;
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.5); /* Soft shadow */
+}
+
+/* Subtitle styling */
+.subtitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    color: #f0e68c; /* Light yellow */
+    margin-top: 15px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: capitalize; /* Capitalize first letter of each word */
+}
+
+/* Navbar styling */
+.navbar ul {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin-top: 30px;
+    list-style: none;
+}
+
+.navbar ul li {
+    margin: 0 15px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    padding: 12px 25px;
+    border-radius: 20px;
+    background: linear-gradient(135deg, #ff5c8d, #ff6347); /* Gradient button */
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.navbar a:hover {
+    background: #ff6347; /* Change gradient on hover */
+    transform: translateY(-5px); /* Slight hover effect */
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2); /* Hover shadow */
+}
+
+/* Responsive styling */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 50px; /* Adjust heading size for smaller screens */
+    }
+    .subtitle {
+        font-size: 20px; /* Adjust subtitle size for smaller screens */
+    }
+    .navbar ul {
+        flex-direction: column;
+    }
+    .navbar ul li {
+        margin: 10px 0;
+    }
+}
+
+
+/* Hero Section */
+#home {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: #fff;
+}
+
+.hero-content {
+    max-width: 50%;
+}
+
+.hero-content h2 {
+    font-size: 2.5rem;
+    color: #333;
+}
+
+.hero-content p {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+}
+
+.cta-button {
+    padding: 0.7rem 1.5rem;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cta-button:hover {
+    background-color: #555;
+}
+
+.hero-image {
+    max-width: 45%;
+    border-radius: 10px;
+}
+
+/* Resources Section */
+#resources {
+    padding: 2rem;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+#resources h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.resource-card {
+    display: inline-block;
+    width: 30%;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.resource-card img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.resource-card h3 {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.resource-card p {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.resource-card button {
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.resource-card button:hover {
+    background-color: #555;
+}
+
+/* Contact Section */
+#contact {
+    padding: 2rem;
+    text-align: center;
+    background-color: #fff;
+}
+
+#contact h2 {
+    font-size: 2rem;
+    color: #333;
+}
+
+#contact p {
+    margin-bottom: 1rem;
+    color: #666;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+form input, form textarea, form button {
+    margin-bottom: 1rem;
+    padding: 0.7rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #555;
+}
+
+/* Footer */
+footer {
+    padding: 1rem;
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    font-size: 0.9rem;
+}
