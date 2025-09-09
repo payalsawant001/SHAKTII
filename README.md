@@ -7,7 +7,7 @@ I’m excited to share my latest project, Shakti, a website I built to support i
 Responsive design for easy navigation on both desktop and mobile.
 Comprehensive resource center with information about rights, support services, and ways to stay safe.
 A simple yet effective contact form for users to reach out for further assistance.
-I developed the website using HTML, CSS, JavaScript, Node.js, Bootstrap, and MySQL, ensuring a seamless and intuitive user experience.
+I developed the website using HTML, CSS, JavaScript, Node.js, Bootstrap, and MySQL, ensuring a seamless and intuitive user experience..
 
 🎯 Key Features:
 
@@ -19,7 +19,7 @@ Mobile-friendly design for ease of use anywhere
 Frontend: HTML, CSS, Bootstrap, JavaScript
 Backend: Node.js, Express.js
 Database: MySQL
-Version Control: Git
+Version Control: Git..
 I’m proud to contribute my skills to such an important cause and look forward to continuing my learning and growth in the field of web development.
 Here is the result of my website:
 ![Shakti Website](https://i.ibb.co/pPcg1yZ/Screenshot-2024-11-15-140042.png)
