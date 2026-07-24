@@ -1,4 +1,4 @@
-🚀 Introducing Shakti - Protect, Empower, Thrive! 🚀..
+🚀 Introducing Shakti - Protect, Empower, Thrive! 🚀
 
 I’m excited to share my latest project, Shakti, a website I built to support individuals facing harassment and empower them with the resources they need to thrive.
 
