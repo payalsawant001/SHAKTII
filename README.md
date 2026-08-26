@@ -1,5 +1,5 @@
 🚀 Introducing Shakti - Protect, Empower, Thrive! 🚀
-..
+
 I’m excited to share my latest project, Shakti, a website I built to support individuals facing harassment and empower them with the resources they need to thrive.
 
 🌟 Shakti is a user-friendly platform that focuses on providing resources, support, and a sense of security to people in need. It is a full-stack web application that features:
